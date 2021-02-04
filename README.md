@@ -1,4 +1,5 @@
 # JDama
+Gioco della dama implementato senza GUI, la creazione della "grafica" è stata fatta attraverso singoli caratteri.
 
 ### Giocatore 1:
     ♢ Pedina
