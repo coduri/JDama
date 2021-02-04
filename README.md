@@ -1,11 +1,11 @@
 # JDama
 Gioco della dama implementato senza GUI, la creazione della "grafica" è stata fatta attraverso singoli caratteri.
 
-### Giocatore 1:
+### Giocatore "Nero" (rosso):
     ♢ Pedina
     ♦ Dama
 
-### Giocatore 2:
+### Giocatore "Bianco" (azzurro):
     ☉ Pedina
     ◉ Dama
 
