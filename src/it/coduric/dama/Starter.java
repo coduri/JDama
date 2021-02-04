@@ -1,9 +1,12 @@
 package it.coduric.dama;
 
-import java.awt.color.CMMException;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import static it.coduric.dama.CostantiColori.*;
+import it.coduric.dama.campo.CampoDiGioco;
+import it.coduric.dama.engine.MotoreGioco;
+import it.coduric.dama.engine.mossa.Mossa;
+import it.coduric.dama.engine.mossa.tipoMossa;
+import it.coduric.dama.model.Giocatore;
+
+import static it.coduric.dama.costanti.CostantiColori.*;
 
 public class Starter {
 
